@@ -5,7 +5,7 @@
 Fully functional but in need of some refinement. (See Roadmap)
 
 ###Roadmap
-- Move auto generated CSS out of index.html and into its own file
+- Move generated CSS out of index.html and into its own file
 - Separate project and library code
 - Switch from JSHint to ESLint
 - Add system notifications for Webpack compilation errors
